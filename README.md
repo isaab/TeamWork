@@ -12,6 +12,6 @@ Procedurenin avantajlari.
 
 Yaradılmış bir gizli PROCEDURE CALL sql əmri ilə işlədilər.
 Məs;
-( CALL StoredProcedureIsmi(); )	
+( CALL StoredProcedureAdi(); )	
 
 
